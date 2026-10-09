@@ -1,6 +1,6 @@
 # Himalayan Expeditions ETL Project
 
-ETL capstone project using expedition records from the Nepal Himalaya (1905-2019).
+ETL python project using expedition records from the Nepal Himalaya (1905-2019).
 
 **Dataset:** https://github.com/rfordatascience/tidytuesday/tree/main/data/2020/2020-09-22
 (original source: The Himalayan Database, https://www.himalayandatabase.com/)
