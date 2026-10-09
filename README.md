@@ -9,7 +9,7 @@ ETL capstone project using expedition records from the Nepal Himalaya (1905-2019
 - `data/raw/peaks.csv` - 468 peaks (height, first ascent)
 - `data/raw/expeditions.csv` - 10,364 expeditions (year, season, result, deaths, oxygen)
 - `data/raw/members.csv` - 76,519 members (age, sex, citizenship, role, success, death)
-- `notebooks/01_extract_and_eda.ipynb` - extraction and EDA
+- `notebooks/Extraction_and_EDA.ipynb` - extraction and EDA
 
 ## Done so far
 - Phase 1: Extraction
