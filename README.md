@@ -1,37 +1,23 @@
-# Climbing in the Himalaya: an ETL project
+# Himalayan Climbing Expeditions - ETL project
 
-I took the Himalayan Climbing Expeditions data (1905-2019), cleaned it up, answered some questions about it with Pandas, and then moved it into a small SQLite database so it can be queried with SQL.
+This is my ETL capstone. I worked with the Himalayan Climbing Expeditions data (1905-2019) from TidyTuesday, which comes from The Himalayan Database. It has three files: peaks, expeditions and members.
 
-Dataset: [TidyTuesday, 22 Sep 2020](https://github.com/rfordatascience/tidytuesday/tree/main/data/2020/2020-09-22), which comes from [The Himalayan Database](https://www.himalayandatabase.com/).
+TidyTuesday link: https://github.com/rfordatascience/tidytuesday/tree/main/data/2020/2020-09-22
 
-Bilakshana Neupane, BSCS, King's College
+I did the project in four notebooks, one for each stage. First I loaded the files and explored them, then cleaned the problems I found and added a few new columns. After that I answered six questions with Pandas, and in the last notebook I created a SQLite database with four tables and wrote 10 SQL queries.
 
-## What is inside
+## Folders
 
-| Folder | What you will find |
-|---|---|
-| `data/raw` | the three original csv files: peaks, expeditions, members |
-| `data/processed` | the cleaned tables (saved by notebook 2) |
-| `notebooks` | the four notebooks, one for each stage |
-| `sql` | `schema.sql` (tables), `queries.sql` (10 reports), `himalayan_db.sql` (both in one file) |
-| `database` | `himalayan.db`, the finished SQLite database |
-| `reports` | the ERD, the SQL query results and the project report (pdf) |
-
-## The notebooks
-
-1. `extract_and_eda`: load the files and look at them (shape, types, missing values, duplicates, outliers)
-2. `cleaning_and_transformation`: fix the problems found in the EDA and add new columns
-3. `analysis_and_insights`: six questions answered with groupby and charts
-4. `database_and_sql_reports`: create the tables, load the data and run the SQL reports
+- `data/raw` has the original csv files and `data/processed` has the cleaned ones
+- `notebooks` has the four notebooks, in the order I did them (extract_and_eda, cleaning_and_transformation, analysis_and_insights, database_and_sql_reports)
+- `sql` has the create table code, the 10 queries, and `himalayan_db.sql` which has both
+- `database` has the SQLite file
+- `reports` has the ERD and the results of the SQL queries
 
 ## Database
 
-Four tables linked by foreign keys: `peaks` and `agencies` each connect to `expeditions`, and `expeditions` connects to `members`. The full diagram is in `reports/ERD.png`.
+The tables are `peaks`, `agencies`, `expeditions` and `members`. Peaks and agencies are linked to expeditions, and expeditions are linked to members. You can see this in `reports/ER Diagram.png`.
 
-## Running it
+## Running
 
-```
-pip install -r requirements.txt
-```
-
-Then open the notebooks and run them from 01 to 04. Notebook 2 writes `data/processed` and notebook 4 builds `database/himalayan.db`.
+Run `pip install -r requirements.txt` and then run the notebooks one after the other. The second one makes the cleaned csv files and the last one makes the database.
