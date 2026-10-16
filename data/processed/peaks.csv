@@ -1,0 +1,470 @@
+peak_id,peak_name,height_metres,height_category,climbing_status,first_ascent_year,first_ascent_country
+AMAD,Ama Dablam,6814,6000-7999 m,Climbed,1961,New Zealand
+AMPG,Amphu Gyabjen,5630,Under 6000 m,Climbed,1953,UK
+ANN1,Annapurna I,8091,8000 m and above,Climbed,1950,France
+ANN2,Annapurna II,7937,6000-7999 m,Climbed,1960,UK
+ANN3,Annapurna III,7555,6000-7999 m,Climbed,1961,India
+ANN4,Annapurna IV,7525,6000-7999 m,Climbed,1955,W Germany
+ANNE,Annapurna I East,8026,8000 m and above,Climbed,1974,Spain
+ANNM,Annapurna I Middle,8051,8000 m and above,Climbed,1980,W Germany
+ANNS,Annapurna South,7219,6000-7999 m,Climbed,1964,Japan
+APIM,Api Main,7132,6000-7999 m,Climbed,1960,Japan
+APIW,Api West,7076,6000-7999 m,Unclimbed,,
+BARU,Baruntse,7152,6000-7999 m,Climbed,1954,New Zealand
+BAUD,Baudha,6672,6000-7999 m,Climbed,1970,Japan
+BHEM,Bhemdang Ri,6150,6000-7999 m,Climbed,1964,Japan
+BHRI,Bhrikuti,6476,6000-7999 m,Climbed,1982,Japan
+BOBA,Bobaye,6808,6000-7999 m,Climbed,1996,Slovenia
+CHAM,Chamlang,7321,6000-7999 m,Climbed,1962,Japan
+CHAN,Changla,6563,6000-7999 m,Climbed,2010,Japan
+CHMN,Chamar North,7165,6000-7999 m,Climbed,1953,New Zealand
+CHEO,Cheo Himal,6820,6000-7999 m,Climbed,1991,Japan
+CHOY,Cho Oyu,8188,8000 m and above,Climbed,1954,Austria
+CHOB,Chobuje,6686,6000-7999 m,Climbed,1972,W Germany
+CHOL,Cholatse,6423,6000-7999 m,Climbed,1982,USA
+CHOP,Cho Polu,6700,6000-7999 m,Climbed,1984,Spain
+CHUL,Chulu Central,6584,6000-7999 m,Climbed,1955,W Germany
+CHUG,Chukyima Go,6258,6000-7999 m,Climbed,2014,Slovenia
+CHUR,Churen Himal Central,7385,6000-7999 m,Climbed,1970,Japan
+CHUW,Chulu West,6419,6000-7999 m,Climbed,1952,Japan
+TAPL,Taple Shikhar,6447,6000-7999 m,Climbed,1998,Japan
+CTSE,Changtse,7583,6000-7999 m,Climbed,1982,W Germany
+DHA1,Dhaulagiri I,8167,8000 m and above,Climbed,1960,Switzerland
+DHA2,Dhaulagiri II,7751,6000-7999 m,Climbed,1971,Austria
+DHA3,Dhaulagiri III,7715,6000-7999 m,Climbed,1973,W Germany
+DHA4,Dhaulagiri IV,7661,6000-7999 m,Climbed,1975,Japan
+DHA5,Dhaulagiri V,7618,6000-7999 m,Climbed,1975,Japan
+DHA6,Dhaulagiri VI,7268,6000-7999 m,Climbed,1970,Japan
+DHAM,Dhampus,6012,6000-7999 m,Climbed,1960,Austria
+DOGA,Dogari,6536,6000-7999 m,Unclimbed,,
+PEMK,Pemthang Karpo Ri,6865,6000-7999 m,Climbed,1955,Switzerland
+DORJ,Dorje Lhakpa,6966,6000-7999 m,Climbed,1981,Japan
+DRAN,Drangnag Ri,6757,6000-7999 m,Climbed,1995,Norway
+DROM,Drohmo,6881,6000-7999 m,Unclimbed,,
+EVER,Everest,8850,8000 m and above,Climbed,1953,New Zealand
+FANG,Fang,7647,6000-7999 m,Climbed,1980,Austria
+FIRN,Firnkopf,6730,6000-7999 m,Unclimbed,,
+FIRW,Firnkopf West,6745,6000-7999 m,Climbed,1987,Austria
+GAMA,Gama Peak,7187,6000-7999 m,Climbed,1970,Japan
+GAN1,Ganesh I,7422,6000-7999 m,Climbed,1955,Switzerland
+GAN3,Ganesh III,7043,6000-7999 m,Climbed,1979,Japan
+GAN2,Ganesh II,7118,6000-7999 m,Climbed,1981,W Germany
+GAN4,Ganesh IV,7104,6000-7999 m,Climbed,1978,Japan
+GAN5,Ganesh V,6770,6000-7999 m,Climbed,1980,Japan
+GAN6,Ganesh VI,6908,6000-7999 m,Climbed,2000,Japan
+GANC,Ganchenpo,6378,6000-7999 m,Climbed,1971,USA
+GAND,Gandharva Chuli,6248,6000-7999 m,Climbed,2013,Romania
+GANG,Gangapurna,7455,6000-7999 m,Climbed,1965,W Germany
+GAUR,Gaurishankar,7135,6000-7999 m,Climbed,1979,US
+GHUN,Ghustang North,6529,6000-7999 m,Climbed,1962,UK
+GHUS,Ghustang South,6465,6000-7999 m,Climbed,2019,France
+MATA,Matathumba,5767,Under 6000 m,Climbed,1961,UK
+GHYM,Ghyuthumba Main,5806,Under 6000 m,Climbed,1953,Austria
+GIME,Gimmigela Chuli East,7007,6000-7999 m,Climbed,1993,Japan
+GIMM,Gimmigela Chuli,7350,6000-7999 m,Climbed,1994,Japan
+GLAC,Glacier Dome,7168,6000-7999 m,Climbed,1964,Japan
+GURJ,Gurja Himal,7193,6000-7999 m,Climbed,1969,Japan
+GURK,Gurkarpo Ri,6889,6000-7999 m,Climbed,2007,France
+GYAC,Gyachung Kang,7861,6000-7999 m,Climbed,1964,Japan
+GYAJ,Gyajikang,7074,6000-7999 m,Climbed,1994,Japan
+LEOE,Leonpo Gang East,6733,6000-7999 m,Climbed,1955,UK
+HIME,Himalchuli East,7893,6000-7999 m,Climbed,1960,Japan
+HIML,Himlung Himal,7126,6000-7999 m,Climbed,1992,Japan
+HIMN,Himalchuli North,7331,6000-7999 m,Climbed,1985,S Korea
+RANI,Rani Peak,6693,6000-7999 m,Climbed,1970,Netherlands
+HIMW,Himalchuli West,7540,6000-7999 m,Climbed,1978,Japan
+HIUP,Hiunchuli,6434,6000-7999 m,Climbed,1971,USA
+HNKU,Hongku Chuli,6833,6000-7999 m,Unclimbed,,
+HONG,Hongde,6556,6000-7999 m,Climbed,1962,Japan
+IMJA,Imjatse,6165,6000-7999 m,Climbed,1956,Switzerland
+JAGD,Jagdula,5761,Under 6000 m,Climbed,2013,France
+JANU,Jannu,7711,6000-7999 m,Climbed,1962,France
+JETH,Jethi Bahurani,6850,6000-7999 m,Climbed,1978,Japan
+JONG,Jongsang,7462,6000-7999 m,Climbed,1930,Germany
+JUNC,Junction Peak,7133,6000-7999 m,Unclimbed,,
+KABD,Kabru Dome,6600,6000-7999 m,Climbed,1982,India
+KABN,Kabru North,7338,6000-7999 m,Climbed,1935,UK
+KAG1,Kagmara I,5978,Under 6000 m,Climbed,1962,UK
+KAN1,Kande Hiunchuli North  I,6521,6000-7999 m,Unclimbed,,
+KAN2,Kande Hiunchuli North  II,6471,6000-7999 m,Climbed,1980,Switzerland
+KANB,Kangbachen,7902,6000-7999 m,Climbed,1974,Poland
+KANC,Kangchenjunga Central,8473,8000 m and above,Climbed,1978,Poland
+KAND,Kande Hiunchuli,6627,6000-7999 m,Climbed,1972,Japan
+KANG,Kangchenjunga,8586,8000 m and above,Climbed,1955,UK
+KANS,Kangchenjunga South,8476,8000 m and above,Climbed,1978,Poland
+KARY,Karyolung,6530,6000-7999 m,Climbed,1982,Japan
+KCHN,Kangchung Nup,6043,6000-7999 m,Climbed,1953,UK
+NAYA,Naya Kanga,5863,Under 6000 m,Climbed,,
+KGUR,Kang Guru,6981,6000-7999 m,Climbed,1955,W Germany
+KHAT,Khatang,6790,6000-7999 m,Climbed,1982,Japan
+KHON,Khongma Tse,5798,Under 6000 m,Climbed,,
+KJER,Kanjeralwa,6612,6000-7999 m,Climbed,1973,Japan
+KJRN,Kanjiroba North,6858,6000-7999 m,Unclimbed,,
+KJRS,Kanjiroba South,6883,6000-7999 m,Climbed,1970,Japan
+KOTA,Kotang,6148,6000-7999 m,Climbed,1982,Inida
+KTEG,Kangtega,6783,6000-7999 m,Climbed,1963,New Zealand
+KTSU,Kangtsune,6444,6000-7999 m,Unclimbed,,
+KUSU,Kusum Kanguru,6370,6000-7999 m,Climbed,1981,New Zealand
+KWAN,Kwangde,6186,6000-7999 m,Climbed,1978,Japan
+LAMJ,Lamjung Himal,6983,6000-7999 m,Climbed,1974,UK
+LANG,Langtang Lirung,7227,6000-7999 m,Climbed,1978,Japan
+LANR,Langtang Ri,7205,6000-7999 m,Climbed,1981,Japan
+LEON,Leonpo Gang,6979,6000-7999 m,Climbed,1962,Japan
+LHAS,Lha Shamma,6412,6000-7999 m,Climbed,1962,UK
+LHOT,Lhotse,8516,8000 m and above,Climbed,1956,Switzerland
+MUKT,Mukut Himal,6087,6000-7999 m,Climbed,1967,Netherlands
+LNPO,Langpo,6965,6000-7999 m,Climbed,1909,UK
+LOBE,Lobuje East,6090,6000-7999 m,Climbed,1984,USA
+LOBW,Lobuje West,6135,6000-7999 m,Climbed,1984,Japan
+LSHR,Lhotse Shar,8382,8000 m and above,Climbed,1970,Austria
+LSIS,Langshisa Ri,6412,6000-7999 m,Climbed,1982,Japan
+MACH,Machhapuchhare,6993,6000-7999 m,Unclimbed,,
+BTAK,Bhairab Takura,6799,6000-7999 m,Climbed,1960,Japan
+MAK2,Makalu II,7678,6000-7999 m,Climbed,1954,UK
+MAKA,Makalu,8485,8000 m and above,Climbed,1955,France
+MANA,Manaslu,8163,8000 m and above,Climbed,1956,Japan
+MANN,Manaslu North,6994,6000-7999 m,Climbed,1964,Netherlands
+MANP,Manapathi,6380,6000-7999 m,Climbed,1956,Argentina
+MARD,Mardi Himal,5553,Under 6000 m,Climbed,1962,UK
+MERA,Mera Peak,6470,6000-7999 m,Climbed,1953,UK
+MING,Mingbo Ri,6207,6000-7999 m,Unclimbed,,
+NALA,Nalakankar North,6062,6000-7999 m,Climbed,2000,Japan
+NAMP,Nampa,6729,6000-7999 m,Climbed,1972,Japan
+NCHU,Nupchu,6172,6000-7999 m,Climbed,1962,Japan
+NEMJ,Nemjung,7140,6000-7999 m,Climbed,1983,Japan
+NEPA,Nepal Peak,7177,6000-7999 m,Climbed,1930,Austria
+NGO2,Ngojumba Kang II,7743,6000-7999 m,Climbed,1965,Japan
+NGOJ,Ngojumba Kang I,7916,6000-7999 m,Climbed,1982,S Korea
+NILC,Nilgiri Central,6940,6000-7999 m,Climbed,1979,Japan
+NILN,Nilgiri North,7061,6000-7999 m,Climbed,1962,Netherlands
+NILS,Nilgiri South,6839,6000-7999 m,Climbed,1978,Japan
+NUMB,Numbur,6958,6000-7999 m,Climbed,1963,Japan
+NUPT,Nuptse,7864,6000-7999 m,Climbed,1961,UK
+OHMI,Ohmi Kangri,6839,6000-7999 m,Climbed,1985,Switzerland
+OMBK,Ombak Himal,6300,6000-7999 m,Unclimbed,,
+PALD,Paldor,5903,Under 6000 m,Climbed,1949,UK
+PANG,Pangbuk Ri,6625,6000-7999 m,Climbed,2011,USA
+PARC,Parchamo,6279,6000-7999 m,Climbed,1955,UK
+PATR,Patrasi Himal,6450,6000-7999 m,Unclimbed,,
+PETH,Pethangtse,6739,6000-7999 m,Climbed,1954,New Zealand
+PHUR,Phurbi Chhyachu,6637,6000-7999 m,Climbed,1982,Japan
+PIMU,Pimu,6344,6000-7999 m,Climbed,1955,UK
+PISA,Pisang,6091,6000-7999 m,Climbed,1955,W Germany
+PK29,Peak 29,7871,6000-7999 m,Climbed,1979,Poland
+POIN,Pointed Peak,5850,Under 6000 m,Climbed,1953,UK
+POKA,Pokalde,5780,Under 6000 m,Climbed,1953,UK
+OMBG,Ombigaichen,6340,6000-7999 m,Climbed,1960,New Zealand
+PUMO,Pumori,7138,6000-7999 m,Climbed,1962,W Germany
+PUTH,Putha Hiunchuli,7246,6000-7999 m,Climbed,1954,UK
+PYRM,Pyramid Peak,7140,6000-7999 m,Climbed,1993,Japan
+RAKS,Raksha Urai,6609,6000-7999 m,Climbed,2003,France
+RAMD,Ramdung,5900,Under 6000 m,Climbed,1952,UK
+RATH,Rathong,6682,6000-7999 m,Climbed,1964,India
+ROCN,Roc Noir,7485,6000-7999 m,Climbed,1969,W Germany
+ROKA,Rokapi,6468,6000-7999 m,Climbed,1977,UK
+SAIE,Saipal East Humla,6925,6000-7999 m,Climbed,1990,Switzerland
+SAIP,Saipal,7030,6000-7999 m,Climbed,1963,Japan
+SHAR,Shartse,7591,6000-7999 m,Unclimbed,,
+SHA2,Shartse II,7457,6000-7999 m,Climbed,1974,Austria
+SHEY,Shey Shikhar,6139,6000-7999 m,Climbed,2007,Japan
+SING,Singu Chuli,6501,6000-7999 m,Climbed,1957,UK
+SISN,Sisne Himal,5911,Under 6000 m,Climbed,2013,Nepal
+SITA,Sita Chuchura,6611,6000-7999 m,Climbed,1970,Japan
+SNOW,Snow Peak,6530,6000-7999 m,Unclimbed,,
+SPHN,Sphinx,6825,6000-7999 m,Climbed,1936,UK
+SPH1,Sharphu I,6433,6000-7999 m,Climbed,1963,Japan
+SURM,Surma-Sarovar North,6564,6000-7999 m,Unclimbed,,
+TAWO,Tawoche,6495,6000-7999 m,Climbed,1974,France
+KIRA,Kirat Chuli,7362,6000-7999 m,Climbed,1939,Switzerland
+THAM,Thamserku,6618,6000-7999 m,Climbed,1964,New Zealand
+THAR,Tharpu Chuli,5695,Under 6000 m,Climbed,1964,Japan
+TILI,Tilicho,7134,6000-7999 m,Climbed,1978,France
+TLNG,Talung,7349,6000-7999 m,Climbed,1964,W Germany
+TONG,Tongu,6187,6000-7999 m,Climbed,1959,USA
+TRIP,Tripura Hiunchuli,6553,6000-7999 m,Climbed,1986,Japan
+TSOK,Tso Karpo Kang,6556,6000-7999 m,Climbed,1971,Japan
+TUKU,Tukuche,6920,6000-7999 m,Climbed,1970,Japan
+URKM,Urkinmang,6143,6000-7999 m,Climbed,1964,Japan
+ANID,Anidesh Chuli,6808,6000-7999 m,Unclimbed,,
+TSUR,Tsaurabong Peak,6395,6000-7999 m,Climbed,1974,Japan
+YALU,Yalung Kang,8505,8000 m and above,Climbed,1973,Japan
+PASA,Pasang Lhamu Chuli,7350,6000-7999 m,Climbed,1986,Japan
+RATC,Ratna Chuli,7035,6000-7999 m,Climbed,1996,Japan
+KANT,Kanti Himal,6850,6000-7999 m,Climbed,2002,Japan
+RAMT,Ramtang,6601,6000-7999 m,Climbed,1930,Austria
+LING,Lingtren,6713,6000-7999 m,Climbed,1935,UK
+TENG,Tengkoma,6215,6000-7999 m,Climbed,1949,Switzerland
+RAMC,Ramtang Chang,6802,6000-7999 m,Climbed,1974,Yugoslavia
+CHRE,Churen Himal East,7371,6000-7999 m,Climbed,1970,S Korea
+CHRW,Churen Himal West,7371,6000-7999 m,Climbed,1970,Japan
+CHRI,Chhukung Ri,5550,Under 6000 m,Climbed,1965,Netherlands
+KTOK,Kangtokal,6294,6000-7999 m,Climbed,1962,Japan
+SRKU,Serku Dolma,6227,6000-7999 m,Climbed,1973,Japan
+NALS,Nalakankar South,6024,6000-7999 m,Climbed,2000,Japan
+CHWT,Changwathang,6130,6000-7999 m,Climbed,2000,Japan
+TAKP,Takphu Himal,6395,6000-7999 m,Climbed,2018,UK
+MALA,Malanphulan,6573,6000-7999 m,Climbed,2000,USA
+LHOM,Lhotse Middle,8410,8000 m and above,Climbed,2001,Russia
+SIMN,Simnang Himal,6251,6000-7999 m,Climbed,2001,Ukraine
+HCHI,Hungchhi,7029,6000-7999 m,Climbed,2003,Japan
+LAMP,Lampo,6648,6000-7999 m,Unclimbed,,
+CHUK,Chhukung Tse,5833,Under 6000 m,Climbed,1953,UK
+DZAN,Dzanye,6581,6000-7999 m,Climbed,1949,Switzerland
+GAUG,Gaugiri,6110,6000-7999 m,Climbed,2002,USA
+TKPO,Tengkangpoche,6482,6000-7999 m,Climbed,1984,UK
+ARNK,Arniko Chuli,6034,6000-7999 m,Climbed,2002,Japan
+SARI,Saribung,6328,6000-7999 m,Climbed,2003,USA
+GHEN,Ghenge Liru,6596,6000-7999 m,Climbed,1963,UK
+NAUL,Naulekh,6340,6000-7999 m,Climbed,1954,New Zealand
+CHEK,Chekigo,6121,6000-7999 m,Climbed,2005,UK
+KTUN,Khatung Khang,6484,6000-7999 m,Climbed,1956,Switzerland
+CHAG,Chago,6893,6000-7999 m,Climbed,1954,New Zealand
+NUMR,Numri,6635,6000-7999 m,Climbed,2002,Germany
+PK41,Peak 41,6648,6000-7999 m,Climbed,2002,Slovenia
+KYAZ,Kyazo Ri,6151,6000-7999 m,Climbed,2002,UK
+PAND,Pandra,6670,6000-7999 m,Climbed,2002,Denmark
+DANG,Danga,6220,6000-7999 m,Climbed,2002,Denmark
+POKR,Pokharkang,6372,6000-7999 m,Climbed,2002,UK
+NAG1,Nangpai Gosum I,7321,6000-7999 m,Climbed,2017,Germany
+KGRI,Khangri Shar,6792,6000-7999 m,Unclimbed,,
+KGRW,Khangri West,6658,6000-7999 m,Unclimbed,,
+PURB,Purbung Himal,6500,6000-7999 m,Unclimbed,,
+TASH,Tashi Kang,6386,6000-7999 m,Climbed,2002,Japan
+TENR,Tengi Ragi Tau,6938,6000-7999 m,Climbed,2002,Japan
+KYAS,Kyashar,6770,6000-7999 m,Climbed,2003,UK
+NREK,Nirekha,6159,6000-7999 m,Climbed,,
+NORB,Norbu Kang,6085,6000-7999 m,Climbed,2003,Japan
+LNKE,Lunchhung Kamo East,6024,6000-7999 m,Climbed,1999,Japan
+LIK1,Linkhu Chuli Shar,6719,6000-7999 m,Climbed,2013,Germany
+LIK2,Linkhu Chuli Nup,6659,6000-7999 m,Climbed,1960,France
+PANT,Panalotapa,6687,6000-7999 m,Climbed,1955,UK
+SHAL,Shalbachum,6707,6000-7999 m,Climbed,1959,Japan
+KHUM,Khumbutse,6639,6000-7999 m,Unclimbed,,
+BOKT,Boktoh,6114,6000-7999 m,Climbed,1991,Yugoslavia
+MOJC,Mojca,6024,6000-7999 m,Climbed,1974,Yugoslavia
+PLNG,Palung,7012,6000-7999 m,Climbed,1952,New Zealand
+TUTS,Tutse,6758,6000-7999 m,Unclimbed,,
+NUPE,Nuptse East I,7795,6000-7999 m,Climbed,2003,Russia
+AMOT,Amotsang,6393,6000-7999 m,Unclimbed,,
+YANS,Yansa Tsenji,6567,6000-7999 m,Unclimbed,,
+HIMJ,Himjung,7092,6000-7999 m,Climbed,2012,S Korea
+AMPH,Amphu I,6740,6000-7999 m,Climbed,2013,S Korea
+CHAB,Chabuk,6792,6000-7999 m,Unclimbed,,
+CHAK,Chako,6704,6000-7999 m,Climbed,2007,Japan
+DOMK,Dome Kang,7264,6000-7999 m,Climbed,2009,Spain
+GHAN,Ghhanyala Hies,6744,6000-7999 m,Unclimbed,,
+HUNK,Hunku,6119,6000-7999 m,Climbed,2012,UK
+JANK,Janak Chuli,7041,6000-7999 m,Climbed,2006,Slovenia
+KABS,Kabru South,7318,6000-7999 m,Climbed,1994,India
+KABR,Kabru Main,7412,6000-7999 m,Climbed,1994,India
+LASH,Lashar I,6842,6000-7999 m,Climbed,2005,Slovenia
+LAS2,Lashar II,6803,6000-7999 m,Unclimbed,,
+NAG2,Nangpai Gosum II,7287,6000-7999 m,Unclimbed,,
+NANG,Nangamari I,6547,6000-7999 m,Climbed,2010,Australia
+PANB,Panbari,6905,6000-7999 m,Climbed,2006,Japan
+PHNH,Phungi Himal,6538,6000-7999 m,Climbed,2017,Russia
+MARI,Mariyang,6528,6000-7999 m,Unclimbed,,
+TKRG,Takargo,6771,6000-7999 m,Climbed,2010,USA
+THUL,Thulagi,7059,6000-7999 m,Climbed,2015,Russia
+JOMS,Jomsom Himal,6335,6000-7999 m,Climbed,2003,France
+BAMO,Bamongo,6406,6000-7999 m,Climbed,2013,Nepal
+CHAW,Chaw Peak,6404,6000-7999 m,Unclimbed,,
+DING,Dingjung North,6249,6000-7999 m,Climbed,1955,UK
+KNAG,Kang Nagchugo,6737,6000-7999 m,Climbed,2008,USA
+KBON,Konabon,6570,6000-7999 m,Unclimbed,,
+KHAM,Khamjung,6759,6000-7999 m,Climbed,1982,Japan
+KYR1,Kyungka Ri 1,6599,6000-7999 m,Climbed,2017,S Korea
+KYR2,Kyungka Ri 2,6506,6000-7999 m,Unclimbed,,
+KOJI,Kojichuwa Chuli,6439,6000-7999 m,Climbed,2010,Japan
+CHIV,Chhiv Himal,6650,6000-7999 m,Climbed,2004,Japan
+LMOC,Langmoche Ri,6552,6000-7999 m,Climbed,2012,USA
+LCHA,Lachama Chuli,6721,6000-7999 m,Climbed,2007,Japan
+PAN1,Panpoche 1,6620,6000-7999 m,Unclimbed,,
+PAN2,Panpoche 2,6504,6000-7999 m,Unclimbed,,
+PHOL,Phole,6645,6000-7999 m,Unclimbed,,
+PHUK,Phu Kang,6694,6000-7999 m,Unclimbed,,
+LNGK,Langchung Khang,6786,6000-7999 m,Unclimbed,,
+PK04,Peak 4,6736,6000-7999 m,Unclimbed,,
+NAM2,Nampa II,6585,6000-7999 m,Unclimbed,,
+NAM3,Nampa III,6611,6000-7999 m,Unclimbed,,
+NAMS,Nampa South,6130,6000-7999 m,Unclimbed,,
+SOBI,Sobithongie,6652,6000-7999 m,Unclimbed,,
+SHER,Shershon,6432,6000-7999 m,Unclimbed,,
+SWAK,Swaksa Kang,6405,6000-7999 m,Unclimbed,,
+TILJ,Tilje,6530,6000-7999 m,Unclimbed,,
+TSAR,Tsartse,6343,6000-7999 m,Climbed,2018,Japan
+YAKA,Yakawa Kang,6482,6000-7999 m,Climbed,2010,Japan
+YAUP,Yaupa,6422,6000-7999 m,Climbed,1989,UK
+TILK,Til Kang,6369,6000-7999 m,Climbed,2018,UK
+YOKO,Yokopahar,6423,6000-7999 m,Unclimbed,,
+SALW,Saldim West,6388,6000-7999 m,Climbed,2016,Romania
+SAMD,Samdo,6335,6000-7999 m,Climbed,2009,Japan
+PURK,Purkhung,6126,6000-7999 m,Climbed,2004,Japan
+DZAS,Dzasampatse,6295,6000-7999 m,Climbed,2004,Slovenia
+SWEL,Swelokhan,6180,6000-7999 m,Unclimbed,,
+MUPK,Mustang Peak,6229,6000-7999 m,Climbed,2001,Japan
+JING,Jinjang,6111,6000-7999 m,Climbed,,
+JOBO,Jobo Rinjang,6778,6000-7999 m,Climbed,2009,USA
+KYAB,Kyabura,6294,6000-7999 m,Unclimbed,,
+KUML,Kumlung,6355,6000-7999 m,Climbed,2008,France
+DGAR,Dhaulagari,6638,6000-7999 m,Unclimbed,,
+LHAY,Lhayul Peak,6395,6000-7999 m,Unclimbed,,
+MERR,Merra,6334,6000-7999 m,Climbed,2006,Denmark
+PBUK,Pabuk Kang,6244,6000-7999 m,Unclimbed,,
+YANK,Yanme Kang,6206,6000-7999 m,Climbed,2017,France
+DANS,Danphe Shail,6103,6000-7999 m,Climbed,2017,France
+GAN7,Ganesh VII,6350,6000-7999 m,Unclimbed,,
+PHAR,Pharilapcha,6017,6000-7999 m,Climbed,2003,Nepal
+THOR,Thorong Peak,6144,6000-7999 m,Climbed,2007,Japan
+CHKA,Chamar Kang,6060,6000-7999 m,Climbed,2007,Japan
+NUPK,Nupche Kang,6576,6000-7999 m,Climbed,1964,W Germany
+PUCH,Punchen Himal,6049,6000-7999 m,Unclimbed,,
+KAKU,Kang Kuru,6344,6000-7999 m,Climbed,2008,USA
+AMPM,Amphu Middle,6202,6000-7999 m,Climbed,2008,Germany
+LUGU,Lugula,6899,6000-7999 m,Climbed,2010,France
+BHRS,Bhrikuti Shail,6361,6000-7999 m,Climbed,2005,France
+MYAG,Myagdi Matha,6273,6000-7999 m,Unclimbed,,
+TOBS,Tobsar,6065,6000-7999 m,Climbed,2017,Nepal
+DINS,Dingjung Ri,6196,6000-7999 m,Climbed,2008,Japan
+DUDH,Dudh Kundali,6045,6000-7999 m,Climbed,1953,Austria
+KAGA,Kanta Gaton,5910,Under 6000 m,Climbed,2009,France
+KAPT,Kaptang,5965,Under 6000 m,Climbed,2009,Japan
+ROMA,Roma,5407,Under 6000 m,Unclimbed,,
+RIPI,Ripimo Shar,6647,6000-7999 m,Climbed,1952,UK
+TSIS,Tsisima,6196,6000-7999 m,Climbed,1963,Japan
+TAWA,Tawa,6110,6000-7999 m,Climbed,2010,Japan
+URMA,Urkema,5890,Under 6000 m,Climbed,2007,Taiwan
+MPNW,Manapathi NW,6384,6000-7999 m,Climbed,1977,Italy
+LUNR,Lunag Ri,6895,6000-7999 m,Unclimbed,,
+JASG,Jasemba Goth,6730,6000-7999 m,Climbed,1964,W Germany
+GOJN,Gojung,6310,6000-7999 m,Climbed,2011,UK
+NAN2,Nangamari II,6209,6000-7999 m,Climbed,2016,Japan
+DRAG,Dragmorpa Ri,6185,6000-7999 m,Climbed,2013,Russia
+SYKG,Syaokang,5929,Under 6000 m,Climbed,2012,New Zealand
+BIJO,Bijora Hiunchuli,6111,6000-7999 m,Unclimbed,,
+CHUB,Chhuboche,5606,Under 6000 m,Climbed,2013,UK
+LUNW,Lunag West,6492,6000-7999 m,Climbed,2013,USA
+DOMO,Domo,7447,6000-7999 m,Climbed,1930,Germany
+LUN2,Lunag II,6812,6000-7999 m,Climbed,2010,France
+TRIA,Triangle Peak,6484,6000-7999 m,Climbed,2013,France
+KASI,Kasi Dalpha,6386,6000-7999 m,Unclimbed,,
+NPHU,Narphu,5921,Under 6000 m,Climbed,2014,UK
+POTA,Pota Himal North,6182,6000-7999 m,Climbed,2008,France
+PANN,Pangbuk North,6478,6000-7999 m,Climbed,2013,USA
+MUST,Mustang Himal,6195,6000-7999 m,Climbed,2014,USA
+MNSL,Mansail,6235,6000-7999 m,Climbed,2014,Japan
+CPHU,Chhochenphu Himal,6260,6000-7999 m,Unclimbed,,
+TANK,Tankya I,6305,6000-7999 m,Unclimbed,,
+GORK,Gorakh Khang,6254,6000-7999 m,Unclimbed,,
+RAUN,Raungsiyar,6224,6000-7999 m,Climbed,2015,Nepal
+LDAK,Langdak,6220,6000-7999 m,Climbed,2015,Nepal
+TKRE,Takargo East,6152,6000-7999 m,Climbed,2015,Nepal
+OMIT,Omitso Go,6332,6000-7999 m,Unclimbed,,
+CBAM,Chhopa Bamare,6109,6000-7999 m,Climbed,2019,USA
+YALW,Yalung Kang West,8077,8000 m and above,Unclimbed,,
+KANN,Kangchenjunga North,7938,6000-7999 m,Unclimbed,,
+KBNE,Kangbachen East,7780,6000-7999 m,Unclimbed,,
+HERZ,Herzog Peak,7555,6000-7999 m,Climbed,,
+GANW,Gangapurna West,7140,6000-7999 m,Unclimbed,,
+CHMR,Chamar,7161,6000-7999 m,Unclimbed,,
+NGAP,Nepal Gap Peak,7007,6000-7999 m,Unclimbed,,
+GAUS,Gaurishankar South,7010,6000-7999 m,Climbed,1979,UK
+BURK,Burke Kang,6942,6000-7999 m,Climbed,2017,Ireland
+HMLE,Himlung East,6932,6000-7999 m,Climbed,2017,France
+YNGS,Yangra Kangri South,6863,6000-7999 m,Unclimbed,,
+NUPL,Nup La Kang,6861,6000-7999 m,Climbed,2018,USA
+CHUM,Chumbu,6859,6000-7999 m,Unclimbed,,
+PHUG,Phu Kang Go,6767,6000-7999 m,Climbed,2011,France
+GURA,Guras,6744,6000-7999 m,Unclimbed,,
+THRK,Tharke Kang,6710,6000-7999 m,Climbed,2017,USA
+HUGO,Hulang Go,6687,6000-7999 m,Unclimbed,,
+SHNW,Shershon Northwest,6682,6000-7999 m,Climbed,1980,UK
+AGLE,Agole East,6675,6000-7999 m,Unclimbed,,
+ROLK,Rolwaling Kang,6664,6000-7999 m,Climbed,2016,Japan
+YARW,Yarwa,6644,6000-7999 m,Unclimbed,,
+YANG,Yangri,6535,6000-7999 m,Unclimbed,,
+LCHN,Lachama North,6628,6000-7999 m,Unclimbed,,
+CHNG,Changdi,6623,6000-7999 m,Unclimbed,,
+GOLD,Goldum Peak,6632,6000-7999 m,Unclimbed,,
+THOC,Thoche Go,6602,6000-7999 m,Unclimbed,,
+KCHS,Kangchung Shar,6063,6000-7999 m,Climbed,1984,Yugoslavia
+PHUN,Phu Kang North,6580,6000-7999 m,Unclimbed,,
+PTHE,Pethangtse East,6572,6000-7999 m,Climbed,2008,UK
+PHNG,Phungi,6524,6000-7999 m,Unclimbed,,
+KNTE,Kanti Himal East,6516,6000-7999 m,Unclimbed,,
+JARK,Jarkya,6473,6000-7999 m,Unclimbed,,
+MARW,Mariyang West,6455,6000-7999 m,Unclimbed,,
+MAYT,Mayonthang Kang,6449,6000-7999 m,Unclimbed,,
+LNJU,Langju,6426,6000-7999 m,Climbed,2017,Japan
+JYAC,Jyachhung,6338,6000-7999 m,Unclimbed,,
+GYLA,Gyala,6363,6000-7999 m,Unclimbed,,
+DOLM,Dolma Khang,6332,6000-7999 m,Climbed,1980,Australia
+KAIP,Kaipuchonam,6329,6000-7999 m,Unclimbed,,
+LDNG,Langdung,6326,6000-7999 m,Climbed,2017,Nepal
+DZA2,Dzanye II,6318,6000-7999 m,Climbed,2015,Japan
+PAMA,Pama Himal,6300,6000-7999 m,Unclimbed,,
+PERH,Peri Himal,6296,6000-7999 m,Unclimbed,,
+TAKL,Takla Kang,6276,6000-7999 m,Unclimbed,,
+KOGI,Kogi Khang North,6275,6000-7999 m,Unclimbed,,
+ASAJ,Asajya Tuppa,6265,6000-7999 m,Unclimbed,,
+KOJS,Kojichuwa South,6264,6000-7999 m,Unclimbed,,
+PKAR,Pankar Himal,6264,6000-7999 m,Climbed,2018,Japan
+SAUL,Saula,6235,6000-7999 m,Unclimbed,,
+YARA,Yala Chuli,6236,6000-7999 m,Unclimbed,,
+RHIM,Rhimbu,6210,6000-7999 m,Unclimbed,,
+SANC,Sanctuary Peak,6207,6000-7999 m,Unclimbed,,
+LASA,Lasa,6189,6000-7999 m,Unclimbed,,
+PERI,Peri,6174,6000-7999 m,Climbed,2016,Italy
+DWIJ,Dwijen Himal,6169,6000-7999 m,Unclimbed,,
+JABR,Jabou Ri,6166,6000-7999 m,Climbed,2015,USA
+BEDG,Beding Go,6125,6000-7999 m,Climbed,2015,Nepal
+TAKN,Takphu North,6142,6000-7999 m,Climbed,2016,Germany
+BHUL,Bhulu Lhasa,6102,6000-7999 m,Climbed,1964,UK
+LNAK,Lhonak,6070,6000-7999 m,Unclimbed,,
+ROLM,Rolmi,6056,6000-7999 m,Climbed,2017,Nepal
+ACHN,Aichyn,6055,6000-7999 m,Climbed,2015,Japan
+ARDN,Ardang,6034,6000-7999 m,Unclimbed,,
+LUNG,Lungchhung,6043,6000-7999 m,Unclimbed,,
+KHNG,Khung,6024,6000-7999 m,Unclimbed,,
+CHND,Chandi Himal,6142,6000-7999 m,Unclimbed,,
+KALI,Kali Himal,6985,6000-7999 m,Climbed,1983,Netherlands
+DHEC,Dhechyan Khang,6019,6000-7999 m,Climbed,2018,Austria
+EKRA,Ek Rate Danda,6213,6000-7999 m,Unclimbed,,
+GHYN,Ghyun Himal I,6110,6000-7999 m,Unclimbed,,
+GORH,Gorakh Himal,6198,6000-7999 m,Unclimbed,,
+HONK,Hongku,6764,6000-7999 m,Climbed,2015,France
+KARK,Karko,6015,6000-7999 m,Unclimbed,,
+KARS,Karsang Kang,6225,6000-7999 m,Climbed,2008,France
+KHAY,Khayang,6186,6000-7999 m,Unclimbed,,
+GYLZ,Gyalzen Peak,6151,6000-7999 m,Climbed,2019,Nepal
+LSAM,Lungsampa,6500,6000-7999 m,Climbed,2014,Spain
+MERS,Mera South,6064,6000-7999 m,Unclimbed,,
+PASH,Pashuwo,6177,6000-7999 m,Unclimbed,,
+SATO,Sat Peak,6164,6000-7999 m,Unclimbed,,
+TSKP,Tso Karpo,6518,6000-7999 m,Unclimbed,,
+SPH2,Sharphu II,6328,6000-7999 m,Climbed,201,USA
+SPH3,Sharphu III,6220,6000-7999 m,Unclimbed,,
+SPH4,Sharphu IV,6172,6000-7999 m,Climbed,1962,Japan
+SPH5,Sharphu V,6158,6000-7999 m,Unclimbed,,
+SPH6,Sharphu VI,6076,6000-7999 m,Unclimbed,,
+MNSS,Mansail South,6248,6000-7999 m,Unclimbed,,
+GDNG,Gave Ding,6581,6000-7999 m,Climbed,2015,UK
+NGO3,Ngojumba Kang III,7681,6000-7999 m,Unclimbed,,
+KIMS,Kimshung,6781,6000-7999 m,Unclimbed,,
+PAWR,Pawar Central,6621,6000-7999 m,Climbed,2015,France
+NGOR,Nagoru,6165,6000-7999 m,Climbed,2016,Austria
+SALD,Saldim,6374,6000-7999 m,Unclimbed,,
+LANY,Langtang Yubra,6048,6000-7999 m,Unclimbed,2018,Australia
+LARK,Larkya Peak,6416,6000-7999 m,Climbed,2017,Georgia
+NUPW,Nuptse West II,7732,6000-7999 m,Climbed,,
+TENE,Tengi Ragi Tau East,6675,6000-7999 m,Climbed,2005,France
+NILE,Nilgiri East,6698,6000-7999 m,Climbed,1970,Spain
+PEMR,Pemthang Ri,6743,6000-7999 m,Unclimbed,,
+FUTI,Futi Himal,6425,6000-7999 m,Climbed,2014,Portugal
+SANB,Sano Bhrikuti,6328,6000-7999 m,Climbed,2017,Switzerland
+SANK,Sano Kailash,6452,6000-7999 m,Climbed,2019,Austria
+TARS,Tarke Kang Shar,7069,6000-7999 m,Climbed,1981,Italy
+KORL,Korlang Pari Tippa,5738,Under 6000 m,Unclimbed,,
+JANE,Jannu East,7460,6000-7999 m,Unclimbed,,
+YUBR,Yubra,6264,6000-7999 m,Unclimbed,,
+SPHU,Unknown peak (SPHU),,,Unknown,,
